@@ -4,3 +4,9 @@
   display: block;
   margin: auto;
 }
+.skillsImg {
+  max-width: 400px;
+  max-height: 400px;
+  display: block;
+  margin: auto;
+}
